@@ -1,6 +1,6 @@
 ## Run a code
 ```
-$ git clone 
+$ git clone https://github.com/knownasYash/Walkie.git
 $ npm install
 $ node index.js
 ```
